@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+I am a Software Engineer at [Grafana Labs](https://grafana.com/), working on [Prometheus](prometheus.io/) and [Cortex](https://cortexmetrics.io/).
+
+I am also a Prometheus team member and one of the maintainers of it's TSDB.
 
 <!--
 **codesome/codesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
