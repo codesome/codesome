@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a Software Engineer at [Grafana Labs](https://grafana.com/), working on [Prometheus]([prometheus.io/](https://github.com/prometheus/prometheus)) and a bit on [Mimir](https://github.com/grafana/mimir/). Also worked on [Cortex]([https://cortexmetrics.io/](https://github.com/cortexproject/cortex)) and [Grafana](https://github.com/grafana/grafana/) in the past.
+I am a Senior Software Engineer at [Grafana Labs](https://grafana.com/), working on [Prometheus]([prometheus.io/](https://github.com/prometheus/prometheus)).
 
 I am also a Prometheus team member and one of the maintainers of its TSDB.
 
