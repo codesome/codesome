@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a Senior Software Engineer at [Grafana Labs](https://grafana.com/), working on [Prometheus]([prometheus.io/](https://github.com/prometheus/prometheus)) and [Grafana Mimir](https://github.com/grafana/mimir).
+I am a Senior Software Engineer at [Grafana Labs](https://grafana.com/), primarily working on [Grafana Mimir](https://github.com/grafana/mimir) and [Prometheus]([prometheus.io/](https://github.com/prometheus/prometheus)) on the side.
 
 I am also a Prometheus team member and one of the maintainers of its TSDB.
 
